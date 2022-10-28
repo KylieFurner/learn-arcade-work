@@ -24,7 +24,7 @@ arcade.draw_lrtb_rectangle_filled(0, 800, 300, 0, arcade.color.COAL)
 arcade.draw_triangle_filled(100, 300, 200, 550, 400, 300, arcade.color.COFFEE)
 arcade.draw_triangle_filled(300, 300, 450, 570, 600, 300, arcade.color.COFFEE)
 arcade.draw_triangle_filled(500, 300, 700, 550, 800, 300, arcade.color.COFFEE)
-arcade.draw_triangle_filled(400, 500, 100, 300, 600, 300, arcade.color.COOL_GREY)
+arcade.draw_triangle_filled(325, 500, 100, 300, 600, 300, arcade.color.COOL_GREY)
 arcade.draw_triangle_filled(0, 500, 0, 300, 300, 300, arcade.color.COOL_BLACK)
 arcade.draw_triangle_filled(800, 500, 800, 300, 500, 300, arcade.color.COOL_BLACK)
 
